@@ -88,9 +88,6 @@ lint/outputs/
 lint/tmp/
 # lint/reports/
 
-# Android Studio captures folder
-captures/
-
 # Signing files
 .signing/
 
